@@ -1,4 +1,3 @@
-Authors
 The authors are: Angelamaria Cardone, Dajana Conte, Beatrice Paternoster (Department of Mathematics, University of Salerno, Italy).
 
 Some information about the authors:
